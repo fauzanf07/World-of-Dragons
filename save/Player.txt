@@ -1,0 +1,1 @@
+3|3|ojan|2500|Fire Ball,1,1;Fire Wind,1,1;Dragon Sword,1,1;|Dragon Sword,1,1;|Api;null;null;null;|3|1|1|Fire Armor,1,1;|||||Fire Armor,1,1;|1|2|500|true|4000|500|
